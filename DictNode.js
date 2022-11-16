@@ -1,6 +1,5 @@
 // -----------------------------------
 // AUTHOR            : Fisayo Olofin
-// STUDENT NUMBER  : 7812316
 // CLASS          : Comp 2150
 // 
 // 
